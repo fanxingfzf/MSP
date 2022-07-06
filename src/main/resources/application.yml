@@ -40,4 +40,4 @@ logging:
   level:
     com.msp.seckill.mapper: debug
 server:
-  port: 8889
+  port: 8888

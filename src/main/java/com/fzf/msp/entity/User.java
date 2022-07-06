@@ -35,7 +35,13 @@ public class User implements Serializable {
      * MD5(MD5(pass明文+固定salt)+salt)
      */
     private String password;
-
+    /**
+     * 手机号
+     */
+    private String phone;
+    /**
+     * 加密的盐
+     */
     private String slat;
 
     /**

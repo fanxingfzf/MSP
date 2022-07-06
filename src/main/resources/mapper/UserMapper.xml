@@ -12,11 +12,16 @@
         <result column="register_date" property="registerDate" />
         <result column="last_login_date" property="lastLoginDate" />
         <result column="login_count" property="loginCount" />
+        <result column="phone" property="phone"/>
     </resultMap>
 
     <!-- 通用查询结果列 -->
     <sql id="Base_Column_List">
-        id, nick_name, password, slat, head, register_date, last_login_date, login_count
+        id, nick_name, password, slat, head, register_date, last_login_date, login_count,phone
     </sql>
 
+    <select id="selectUser" parameterType="com.fzf.msp.vo.rpg.LoginPageRpg"
+            resultType="com.fzf.msp.entity.User">
+        select * from t_user where phone in
+    </select>
 </mapper>
