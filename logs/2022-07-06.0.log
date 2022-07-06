@@ -1,0 +1,26 @@
+22:21:42.418 [main] INFO  com.fzf.msp.MSPApplication - Starting MSPApplication using Java 1.8.0_91 on DESKTOP-847M6EL with PID 5568 (E:\myproject\javaproject\MySpringBoot\2022-7-5\MSP\target\classes started by 繁星 in E:\myproject\javaproject\MySpringBoot\2022-7-5\MSP)
+22:21:42.419 [main] INFO  com.fzf.msp.MSPApplication - No active profile set, falling back to 1 default profile: "default"
+22:21:43.269 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8889 (http)
+22:21:43.276 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8889"]
+22:21:43.277 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+22:21:43.277 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.64]
+22:21:43.378 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+22:21:43.378 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 917 ms
+22:21:44.261 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+22:21:44.332 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8889"]
+22:21:44.346 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8889 (http) with context path ''
+22:21:44.353 [main] INFO  com.fzf.msp.MSPApplication - Started MSPApplication in 2.349 seconds (JVM running for 3.166)
+22:21:44.355 [main] INFO  com.fzf.msp.MSPApplication - 项目启动成功.....
+22:23:05.008 [main] INFO  com.fzf.msp.MSPApplication - Starting MSPApplication using Java 1.8.0_91 on DESKTOP-847M6EL with PID 12104 (E:\myproject\javaproject\MySpringBoot\2022-7-5\MSP\target\classes started by 繁星 in E:\myproject\javaproject\MySpringBoot\2022-7-5\MSP)
+22:23:05.009 [main] INFO  com.fzf.msp.MSPApplication - No active profile set, falling back to 1 default profile: "default"
+22:23:05.830 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8889 (http)
+22:23:05.836 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8889"]
+22:23:05.837 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+22:23:05.837 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.64]
+22:23:05.937 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+22:23:05.937 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 882 ms
+22:23:06.861 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+22:23:06.940 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8889"]
+22:23:06.955 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8889 (http) with context path ''
+22:23:06.964 [main] INFO  com.fzf.msp.MSPApplication - Started MSPApplication in 2.363 seconds (JVM running for 3.15)
+22:23:06.966 [main] INFO  com.fzf.msp.MSPApplication - 项目启动成功.....
